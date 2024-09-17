@@ -1,0 +1,26 @@
+.user{
+    width: 30%;
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.user:hover{
+    transform: scale(1.04);
+    transition: all 0.5s;
+}
+.user img{
+    width: 100%;
+}
+.ism{
+    text-align: center;
+    font-size: 24px;
+}
+.email{
+line-height: 12px;
+}
+.num{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font: 1em sans-serif;
+}

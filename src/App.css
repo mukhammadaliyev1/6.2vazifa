@@ -1,0 +1,51 @@
+/* style.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .user-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .user-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    width: 250px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .user-card img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  h3 {
+    color: #333;
+    margin-left: 20px;
+  }
+  
+  p {
+    color: #666;
+    margin-left: 20px;
+  }
+  .ism{
+    margin-left: 100px;
+  }
+  h4 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: #444;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
